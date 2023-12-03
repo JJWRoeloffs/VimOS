@@ -13,6 +13,12 @@ make
 ./main
 ```
 
+Or for the vimscript implementation:
+
+```sh
+vim --cmd ":source vimos.vim"
+```
+
 ---
 
 This project is a joke on the common statement "Emacs is a great operating system, too bad it doesn't have a decent text editor." Please do not take it seriously.
